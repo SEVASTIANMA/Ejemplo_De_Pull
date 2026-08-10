@@ -42,3 +42,32 @@ Este proceso normalmente incluye varias etapas:
 6. Mantenimiento: se realizan correcciones y mejoras.
 
 ---
+## 4. Inteligencia Artificial en el desarrollo de software
+
+La IA puede utilizarse como una herramienta de apoyo durante diferentes etapas del desarrollo de software.
+
+4.1 Generación de código
+
+Las herramientas de IA pueden generar ejemplos de código a partir de instrucciones escritas por el desarrollador.
+
+Esto permite obtener una posible solución de manera rápida, aunque el código siempre debe ser revisado.
+
+4.2 Detección de errores
+
+La IA puede analizar un programa y ayudar a identificar posibles errores o problemas.
+
+Esto permite que el desarrollador pueda revisar el código y realizar las correcciones necesarias.
+
+4.3 Explicación de código
+
+Una herramienta de IA puede explicar el funcionamiento de una parte del código.
+
+Esto puede ser muy útil para los estudiantes de programación, ya que facilita la comprensión de variables, funciones, condiciones y otros conceptos.
+
+4.4 Creación de documentación
+
+La IA puede ayudar a crear documentación para explicar el funcionamiento de un programa.
+
+Una buena documentación permite que otros desarrolladores puedan comprender y mantener el proyecto.
+
+---
