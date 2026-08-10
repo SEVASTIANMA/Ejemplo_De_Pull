@@ -8,3 +8,25 @@ Descripción: Desarrollar un módulo que permita registrar, consultar, modificar
 * El usuario puede eliminar un producto. 
 * El sistema permite buscar productos. 
 * El sistema muestra una advertencia cuando la cantidad disponible sea 
+* ## 1. ¿Cómo Funciona un Sistema de Inventarios?
+El funcionamiento se basa en un ciclo continuo apoyado por tecnología (como códigos de barras o chips RFID):
+
+[ Recepción ] ➔ [ Almacenamiento ] ➔ [ Monitoreo ] ➔ [ Venta / Despacho ] ➔ [ Reaprovisionamiento ]
+
+* Entrada de mercancía: Al recibir stock del proveedor, se escanea el código de barras/QR de cada unidad o lote. El sistema actualiza automáticamente las cantidades disponibles.
+
+* Ubicación en almacén: El sistema asigna un pasillo, estante o posición exacta a cada producto para facilitar su localización rápida.
+
+* Control de salidas (Venta): Cuando entra un pedido o se vende un ítem, el sistema descuenta la unidad inmediatamente de la base de datos central (inventario en tiempo real).
+
+* Puntos de reorden y alertas: Cuando las existencias de un producto bajan de cierto nivel de seguridad, el sistema genera automáticamente una alerta o una orden de compra sugerida.
+
+## 2. Métodos Clave de Gestión
+Para que el sistema sepa cómo mover el stock, se aplican métodos específicos según el tipo de negocio:
+
+* FIFO / PEPS (First In, First Out / Primero en Entrar, Primero en Salir): Las unidades más antiguas son las primeras en venderse. Es vital para productos perecederos (alimentos, medicamentos) o de rápida obsolescencia (moda, tecnología).
+
+* LIFO / UEPS (Last In, First Out / Último en Entrar, Primero en Salir): Lo último que entró es lo primero en salir. Se aplica a productos no perecederos ni sujetos a moda (como materiales de construcción en bultos o arena).
+
+* Just in Time (JIT): Se produce o compra solo lo necesario en el momento justo. Minimiza los costos de almacenamiento al extremo, pero exige una cadena de suministro extremadamente confiable.
+* 
