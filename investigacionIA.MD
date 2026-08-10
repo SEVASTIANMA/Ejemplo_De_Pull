@@ -58,3 +58,33 @@ Investigadores de Google publican el artículo Attention Is All You Need, introd
 
 **IA Generativa:** Diseñada para crear contenido original (código, texto, audio, gráficos) a partir del análisis predictivo de grandes volúmenes de entrenamiento.
 
+# ¿Cómo Ayuda la IA a los Desarrolladores en el Día a Día?
+
+La inteligencia artificial se ha transformado en un asistente interactivo ("copiloto") dentro del ciclo de vida del desarrollo de software (SDLC), incrementando la productividad y la calidad del código.
+
+## 1. Generación y Autocompletado de Código:
+
+- Sugiere bloques completos de código en tiempo real basándose en comentarios en lenguaje natural o en el contexto del archivo.
+
+- Reduce el trabajo repetitivo (boilerplate code), permitiendo al desarrollador enfocarse en la arquitectura del sistema.
+
+## 2. Detección de Errores y Depuración (Debugging):
+
+- Identifica vulnerabilidades de seguridad, bugs o cuellos de botella antes de desplegar el código a producción.
+
+- Explica el origen de una excepción o error de compilación y ofrece correcciones automatizadas.
+
+## 3. Creación de Pruebas Automatizadas:
+
+- Genera casos de prueba unitarios e integrados (Unit Tests) analizando las funciones del proyecto para garantizar la cobertura adecuada del sistema.
+
+## 4. Refactorización y Explicación de Código:
+
+- Ayuda a traducir o actualizar código en lenguajes antiguos a sintaxis moderna.
+
+- Explica funciones complejas o documentación heredada (legacy code) a ingenieros que recién se integran al proyecto.
+
+## 5. Documentación Automática:
+
+- Genera la documentación técnica de clases, funciones y APIs REST a partir del propio código fuente de forma consistente.
+
