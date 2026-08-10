@@ -25,3 +25,7 @@ Los dinosaurios podían ser **herbívoros, carnívoros u omnívoros**. Los herb�
 Hace aproximadamente **66 millones de años**, ocurrió una extinción masiva que provocó la desaparición de los dinosaurios no avianos. La principal explicación científica es el impacto de un gran asteroide en la zona de la actual península de Yucatán, que produjo cambios ambientales importantes.
 
 Sin embargo, **no todos los dinosaurios desaparecieron**: las aves son consideradas dinosaurios avianos y representan el único grupo de dinosaurios que sobrevivió hasta nuestros días.
+
+## Conclusión
+
+Los dinosaurios fueron uno de los grupos de animales más importantes y diversos de la historia de la Tierra. Dominaron numerosos ecosistemas durante más de **160 millones de años** y dejaron numerosos fósiles que permiten a los científicos estudiar cómo vivían y evolucionaban. Su legado continúa actualmente a través de las aves.
