@@ -32,4 +32,8 @@ En el contexto de las evaluaciones, el plagio y la trampa se definen como cualqu
 * **Evaluación formativa continua:** Dividir el peso de la nota en actividades periódicas y más cortas en lugar de un único examen final de alto riesgo.
 * **Uso ético de herramientas de supervisión:** Protocolos transparentes de vigilancia o modalidades de libro abierto (*open-book*) que incentivan la síntesis por encima de la memorización mecánica.
 
+---
+
+## 6. Conclusiones
+La erradicación del plagio en los exámenes no recae únicamente en la aplicación de sanciones punitivas o sistemas de control invasivos, sino en el fomento de una cultura de **honestidad intelectual**. Reorientar el valor de la evaluación hacia la retroalimentación constructiva disminuye de manera directa los incentivos psicológicos y contextuales del fraude.
 
