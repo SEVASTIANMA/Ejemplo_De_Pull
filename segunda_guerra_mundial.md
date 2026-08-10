@@ -4,3 +4,28 @@
 La Segunda Guerra Mundial fue el conflicto armado más destructivo, global y mortífero de la historia de la humanidad. Involucró de manera directa o indirecta a más de 30 países y dejó un saldo estimado de entre 70 y 85 millones de víctimas fatales, entre civiles y militares. El conflicto enfrentó a dos grandes alianzas militares: los **Aliados** y las **Potencias del Eje**.
 
 ---
+
+## 2. Antecedentes y Causas del Conflicto
+Las raíces de la Segunda Guerra Mundial se encuentran profundamente arraigadas en los desequilibrios geopolíticos y económicos dejados por la Primera Guerra Mundial.
+
+### 2.1. El Tratado de Versalles (1919)
+* **Humillación alemana:** Alemania fue considerada la única responsable de la Gran Guerra, lo que le impuso sanciones económicas drásticas (indemnizaciones de guerra masivas) y restricciones militares severas.
+* **Pérdida territorial:** Alemania perdió aproximadamente el 13% de su territorio europeo y todas sus colonias ultramarinas.
+* **Resentimiento nacional:** Este clima de descontento generalizado abonó el terreno para discursos nacionalistas y revanchistas.
+
+### 2.2. La Gran Depresión (1929)
+* El colapso financiero global iniciado en Estados Unidos desestabilizó las economías frágiles de Europa, especialmente la de la República de Weimar en Alemania.
+* El desempleo masivo y la pobreza extrema debilitaron las democracias liberales y propiciaron el surgimiento de regímenes extremistas.
+
+### 2.3. El Ascenso del Fascismo y el Totalitarismo
+* **Italia:** Benito Mussolini estableció el primer régimen fascista en la década de 1920, buscando revivir la gloria del Imperio Romano mediante una política imperialista (invasión de Etiopía).
+* **Alemania:** Adolf Hitler y el Partido Nacionalsocialista Obrero Alemán (NSDAP) ascendieron al poder en 1933, promoviendo la supremacía aria, el pangermanismo y el antisemitismo radical.
+* **Japón:** El militarismo japonés evolucionó hacia un expansionismo agresivo en Asia, buscando dominar recursos naturales estratégicos y consolidar el Imperio del Gran Japón.
+
+### 2.4. El Fracaso de la Sociedad de Naciones
+* Creada para mantener la paz internacional, la Sociedad de Naciones demostró ser incapaz de frenar las agresiones internacionales previas a la guerra:
+  * La invasión japonesa de Manchuria (**1931**).
+  * La invasión italiana de Abisinia (**1935**).
+  * La anexión alemana de Austria (*Anschluss*, **1938**) y los Sudetes (Acuerdos de Múnich, **1938**).
+
+---
