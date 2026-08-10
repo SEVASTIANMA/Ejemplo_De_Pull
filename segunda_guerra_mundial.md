@@ -29,3 +29,20 @@ Las raíces de la Segunda Guerra Mundial se encuentran profundamente arraigadas 
   * La anexión alemana de Austria (*Anschluss*, **1938**) y los Sudetes (Acuerdos de Múnich, **1938**).
 
 ---
+
+## 3. Estallido y Fases Principales de la Guerra
+
+### 3.1. El Inicio del Conflicto (1939)
+* **El Pacto Germano-Soviético (Molotov-Ribbentrop):** Firmado en agosto de 1939, un pacto de no agresión entre la Alemania nazi y la Unión Soviética que incluía un protocolo secreto para repartirse Europa Oriental.
+* **La Invasión de Polonia:** El **1 de septiembre de 1939**, las tropas alemanas invadieron Polonia utilizando la táctica del *Blitzkrieg* (guerra relámpago). Dos días después, el Reino Unido y Francia declararon la guerra a Alemania.
+
+### 3.2. Expansión del Eje y Caída de Europa Occidental (1939 - 1941)
+* **La "Guerra de Broma" (*Sitzkrieg*):** Meses de relativa inactividad militar en el frente occidental tras la caída de Polonia.
+* **La Campaña de Escandinavia y Francia (1940):** Alemania conquistó Dinamarca, Noruega, los Países Bajos, Bélgica y, sorpresivamente, Francia, la cual cayó en junio de 1940, dividiéndose en la Francia ocupada y el régimen colaboracionista de Vichy.
+* **La Batalla de Inglaterra (1940 - 1941):** Primera gran campaña librada enteramente por fuerzas aéreas (la *Luftwaffe* alemana contra la *Royal Air Force* británica). La resistencia británica impidió la invasión anfibia alemana (*Operación León Marino*).
+
+### 3.3. La Globalización del Conflicto (1941)
+* **Operación Barbarroja (Junio de 1941):** Rompiendo el pacto previo, Alemania invadió la Unión Soviética en el mayor despliegue militar de la historia, buscando espacio vital (*Lebensraum*) y recursos petroleros.
+* **El ataque a Pearl Harbor (Diciembre de 1941):** La aviación japonesa atacó la base naval estadounidense en Hawái. Esto provocó la entrada formal de Estados Unidos en el conflicto mundial.
+
+---
