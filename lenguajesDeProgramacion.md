@@ -4,6 +4,8 @@
 
 Un **lenguaje de programación** es una forma de comunicación que permite darle instrucciones a una computadora para realizar diferentes tareas.
 
+---
+
 ## Algunos lenguajes
 
 - **Python:** utilizado en inteligencia artificial y automatización.
