@@ -56,3 +56,7 @@ Algoritmo Suma
     Escribir "El resultado es:", resultado
 
 FinAlgoritmo
+
+## **Conclusión**
+
+-- En conclusión, Python es un lenguaje de programación muy importante y versátil, ya que permite desarrollar diferentes tipos de programas y aplicaciones de una manera sencilla y organizada. Su sintaxis fácil de entender lo convierte en una buena opción para las personas que están comenzando a aprender programación. Además, sus diferentes herramientas y bibliotecas permiten utilizarlo en áreas como el desarrollo de software, análisis de datos, automatización e inteligencia artificial. Por estas razones, aprender Python puede ser una buena base para desarrollar habilidades y conocimientos necesarios en el campo del desarrollo de software.
