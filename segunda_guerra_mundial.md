@@ -80,3 +80,10 @@ Las raíces de la Segunda Guerra Mundial se encuentran profundamente arraigadas 
 
 ---
 
+## 6. Consecuencias y Legado Histórico
+
+1. **Pérdidas Humanas y Materiales:** Devastación demográfica sin precedentes en Europa y Asia, con ciudades enteras reducidas a escombros y millones de desplazados (refugiados y apátridas).
+2. **Reconfiguración Geopolítica:** Europa perdió su hegemonía mundial tradicional, dando paso al surgimiento de dos superpotencias hegemónicas rivales: **Estados Unidos** y la **Unión Soviética**, germen de la naciente **Guerra Fría** y la división del continente (Telón de Acero).
+3. **Creación de la Organización de las Naciones Unidas (ONU):** Fundada en octubre de **1945** con el objetivo explícito de mantener la paz y la seguridad internacional, promover los derechos humanos y fomentar la cooperación económica entre las naciones.
+4. **Juicios de Núremberg y Tokio:** Establecimiento pionero de tribunales internacionales para juzgar crímenes de guerra, crímenes contra la paz y crímenes de lesa humanidad perpetrados por los líderes de las potencias vencidas.
+5. **Desarrollo Tecnológico y Científico:** Aceleración drástica de la investigación en campos como la energía nuclear, la computación primitiva (máquina Enigma/Colossus), la aviación a reacción y los avances en medicina (producción masiva de penicilina).
