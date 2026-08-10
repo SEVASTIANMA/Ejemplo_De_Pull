@@ -175,3 +175,32 @@ En el futuro podría ayudar en actividades como:
 Los futuros desarrolladores deberán aprender a utilizar estas tecnologías y mantener sus conocimientos sobre programación y desarrollo de software.
 
 ---
+## 11. Conclusión
+
+La Inteligencia Artificial se ha convertido en una herramienta importante para el desarrollo de software.
+
+Puede ayudar a los desarrolladores a crear código, encontrar errores, explicar programas, aprender conceptos y ahorrar tiempo.
+
+Sin embargo, también presenta algunos riesgos, por lo que es necesario revisar y comprobar los resultados proporcionados por estas herramientas.
+
+En conclusión, la IA puede ser una herramienta de apoyo muy útil para los desarrolladores, siempre que sea utilizada de manera responsable y acompañada de conocimientos de programación.
+
+---
+## 12. Referencias
+
+- Documentación oficial de Python.
+- Documentación oficial de GitHub.
+- Recursos educativos sobre Inteligencia Artificial.
+- Artículos relacionados con Inteligencia Artificial y desarrollo de software.
+
+---
+
+## Información del trabajo
+
+**Programa**: Análisis y Desarrollo de Software
+
+**Tema:** Inteligencia Artificial aplicada al Desarrollo de Software
+
+**Editor**: Visual Studio Code
+
+**Formato**: Markdown
