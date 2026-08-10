@@ -1,13 +1,2 @@
-## Caracteristicas de un algoritmo 
-Asimismo, los algoritmos presentan una serie de características comunes. Son:
-
-Precisos. Objetivos, sin ambigüedad. 
-
-Ordenados. Presentan una secuencia clara y precisa para poder llegar a la solución.
-
-Finitos. Contienen un número determinado de pasos.
-
-Concretos. Ofrecen una solución determinada para la situación o problema planteados.
-
-Definidos. El mismo algoritmo debe dar el mismo resultado al recibir la misma entrada. 
-
+## Conclusion 
+Como hemos visto, un algoritmo informático no es más que un conjunto de instrucciones para conseguir un fin. Los algoritmos están muy presentes en el ámbito de la informática, pero también en nuestra vida cotidiana. Existen numerosos tipos y ejemplos de algoritmos y, dependiendo de la situación en que nos encontremos, unos u otros nos ayudarán a llegar a la solución que necesitemos.
