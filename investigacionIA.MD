@@ -40,3 +40,21 @@ Investigadores de Google publican el artículo Attention Is All You Need, introd
 
 - Existen dos clasificaciones principales para entender los distintos tipos de IA: según su alcance o capacidad y según su mecanismo de funcionamiento.
 
+## 1. Según su Alcance o Capacidad
+
+
+|  Tipos de IA | Descripcion | Estado actual | Ejemplos |
+|  :---  | :---: | :---: | ---: |
+|  **IA Estrecha o Débil (ANI)**| Diseñada para realizar una tarea específica de forma experta, pero sin capacidad de razonar fuera de su dominio.| En uso diario.| Motores de búsqueda, reconocedores de voz, algoritmos de recomendación. |
+|  **IA General (AGI)**  | Capacidad de aprender, comprender y aplicar inteligencia a cualquier problema como lo haría un ser humano. | En fase teórica e investigación activa. | Ninguno existente actualmente. |
+|  **Superinteligencia Artificial (ASI)**  | Nivel hipotético en el que la IA supera sustancialmente la inteligencia humana en todas las áreas (creatividad, sabiduría, resolución de problemas). | Concepto especulativo/futurista. | Modelos teóricos del futuro. |
+
+## 2. Según su Funcionamiento Tecnológico
+**Sistemas Basados en Reglas:** Funcionan mediante instrucciones condicionales del tipo si X ocurre, entonces haz Y. No aprenden por sí solos.
+
+**Aprendizaje Automático (Machine Learning):** El sistema identifica patrones analizando datos sin ser programado explícitamente para cada regla.
+
+**Aprendizaje Profundo (Deep Learning):** Subcampo del Machine Learning que emplea redes neuronales artificiales profundas para procesar datos no estructurados (imágenes, audio, texto).
+
+**IA Generativa:** Diseñada para crear contenido original (código, texto, audio, gráficos) a partir del análisis predictivo de grandes volúmenes de entrenamiento.
+
