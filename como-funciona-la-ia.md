@@ -37,3 +37,27 @@ Los modelos de lenguaje utilizan redes neuronales entrenadas con grandes cantida
 Durante su entrenamiento, el modelo aprende patrones relacionados con las palabras y el lenguaje. De manera simplificada, cuando recibe una pregunta o una instrucción, analiza el contexto y genera una respuesta calculando qué elementos son más adecuados para continuar el texto.
 
 Esto no significa que el sistema piense exactamente como una persona. Su funcionamiento se basa en modelos matemáticos, datos de entrenamiento y procesos computacionales.
+
+## **Usos de la inteligencia artificial** 
+Actualmente, la inteligencia artificial tiene muchas aplicaciones. Algunos ejemplos son:Actualmente, la inteligencia artificial tiene muchas aplicaciones. Algunos ejemplos son:
+- Medicina: análisis de imágenes médicas y apoyo en la investigación.
+- Educación: herramientas de aprendizaje personalizado.
+- Transporte: sistemas de asistencia a la conducción.
+- Entretenimiento: recomendaciones de películas, música y videojuegos.
+- Informática: detección de errores, análisis de datos y programación.
+- Industria: automatización y control de procesos.
+- Comunicación: traducción automática y asistentes virtuales.
+
+## **Ventajas y riesgos**
+La inteligencia artificial puede ayudar a automatizar tareas, analizar grandes cantidades de información y aumentar la productividad. Sin embargo, también presenta riesgos y desafíos.
+
+Entre ellos se encuentran la generación de información incorrecta, los sesgos presentes en los datos, la privacidad, el uso indebido de la tecnología y los posibles cambios que puede producir en algunos empleos.
+
+Por esta razón, el desarrollo de la inteligencia artificial debe estar acompañado de un uso responsable y de medidas que permitan reducir sus riesgos.
+
+## **Conclucion**
+La inteligencia artificial funciona mediante algoritmos y modelos capaces de analizar grandes cantidades de datos para encontrar patrones y realizar determinadas tareas. Una de las tecnologías más importantes dentro de este campo es el aprendizaje automático, que permite que los sistemas mejoren su desempeño a partir de los datos utilizados durante su entrenamiento.
+
+Las redes neuronales y el deep learning han permitido grandes avances en áreas como el reconocimiento de imágenes, el procesamiento del lenguaje y la generación de contenido.
+
+Aunque la inteligencia artificial ofrece numerosas ventajas y posibilidades, también tiene limitaciones y riesgos. Por ello, comprender cómo funciona es fundamental para utilizarla de manera responsable y aprovechar sus beneficios.
