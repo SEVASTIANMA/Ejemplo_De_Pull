@@ -36,3 +36,14 @@ Para que el sistema sepa cómo mover el stock, se aplican métodos específicos 
 * Clase B: 30% del inventario con impacto moderado.
 
 * Clase C: 50% de los productos que representan solo el 5% de los ingresos (bajo control).
+* ## 3. Ejemplos Prácticos en Distintas Industrias
+**Ejemplo :** Supermercado o Comercio Minorista (E-commerce)
+Reto: Miles de productos diferentes con alta rotación y fechas de caducidad variables.
+
+**Cómo funciona:**
+
+* Al llegar una caja de yogures, se registra la fecha de vencimiento y el lote.
+
+* Cuando el cajero escanea el producto (o se descuenta por la tienda online), el inventario se actualiza en el acto.
+
+* El sistema aplica FIFO: alerta al personal si hay lotes próximos a vencer para colocar esas bandejas al frente de la repisa o aplicar promociones.
