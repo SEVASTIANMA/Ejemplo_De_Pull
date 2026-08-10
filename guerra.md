@@ -7,6 +7,9 @@ En la historia humana hay registro de las guerras mas conocidas:
 **Primera Guerra Mundial**
 **Segunda Guerra Mundial**
 **Guerra De vietnam**
-**Guerras De Las Gailas**
+**La  Guerra De Corea**
 **Las Cruzadas**
 
+## Las Concecuensias De La Guerra
+
+Debido a las incesantes conflictos y muerte. Sus consecuencias
