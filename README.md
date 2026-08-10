@@ -16,3 +16,7 @@ Existieron miles de especies diferentes. Algunos ejemplos conocidos son:
 - **Velociraptor:** pequeño dinosaurio carnívoro, mucho menor de lo que suele representarse en las películas.
 - **Stegosaurus:** herbívoro caracterizado por sus placas óseas en la espalda y púas en la cola.
 
+## ¿Qué comían?
+
+Los dinosaurios podían ser **herbívoros, carnívoros u omnívoros**. Los herbívoros se alimentaban principalmente de plantas, mientras que los carnívoros cazaban otros animales. Algunos probablemente tenían dietas variadas.
+
