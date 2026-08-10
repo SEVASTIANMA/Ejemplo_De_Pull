@@ -24,6 +24,7 @@ Lógica de control: Se emplean condicionales (if/else) para que el robot tome de
 
 Los robots industriales se clasifican principalmente según la configuración geométrica de sus ejes y movimientos. Los modelos más utilizados en las fábricas modernas incluyen los robots articulados, cartesianos, SCARA, Delta, cilíndricos y los robots colaborativos (cobots)
 
+
 # Principales Tipos de Robots Industriales
 
 Articulados (Antropomorfos): Tienen articulaciones rotativas que imitan el brazo humano. Ofrecen gran flexibilidad y movimiento en múltiples ejes para soldadura, pintura y ensamblaje
@@ -37,3 +38,55 @@ Delta (Araña): Tienen una estructura de enlaces paralelos montada en una base s
 Cilíndricos: Poseen una articulación rotativa en la base y ejes deslizantes. Trabajan en un espacio cilíndrico, útiles para ensamblaje de piezas y manejo de tornos.
 
 Colaborativos (Cobots): Diseñados para interactuar de forma segura junto a los humanos en un mismo espacio de trabajo gracias a sus sensores de contacto
+
+## 3. Partes principales de un robot
+
+Un robot se compone principalmente de cinco elementos esenciales: el Controlador o CPU que actúa como cerebro, los Sensores para percibir el entorno, los Actuadores que generan movimiento, la Estructura o chasis como soporte físico y la Fuente de energía que alimenta todo el sistema
+
+## Componentes Principales
+
+  -  **Controlador (CPU):** Es el cerebro. Procesa las órdenes del programa, toma decisiones y coordina las acciones del robot.
+
+  -  **Sensores:** Funcionan como los sentidos. Captan datos del exterior como luz, temperatura, distancia o contacto.
+
+  -  **Actuadores:** Son los músculos mecánicos. Transforman la energía en movimiento físico, como girar ruedas o mover brazos.
+
+  -  **Estructura (Chasis):** Es el esqueleto o cuerpo. Sostiene los componentes internos y da forma a la máquina.
+
+  -  **Fuente de energía:** Baterías o conexiones eléctricas que suministran la potencia necesaria para opera.
+   4. En qué se usa la robótica
+
+  La robótica se aplica en áreas como la industria para armar autos, la medicina en cirugías, el hogar con robots de limpieza, la exploración del espacio y la agricultura para cuidar cultivos. Estas máquinas ayudan a hacer trabajos difíciles, peligrosos o repetitivos con mayor rapidez y seguridad.
+
+## Industria y Fabricación
+
+  -  **Armado de piezas**: Unen partes de autos y aparatos con gran velocidad.
+
+  -  **Soldadura y pintura**: Hacen trabajos con calor o químicos peligrosos lejos de las personas.
+
+  -  **Transporte interno**: Mueven cajas y materiales pesados dentro de las fábricas.
+
+## Medicina y Salud
+
+  -  **Cirugía guiada**: Ayudan a los médicos a operar con cortes muy pequeños y gran pulso.
+
+  -  **Desinfección**: Limpian habitaciones de hospitales con rayos especiales para matar gérmenes.
+
+  -  **Apoyo y transporte**: Llevan medicinas y comida a las habitaciones de los enfermos.
+
+## Hogar y Vida Diaria
+
+  -  **Aspiradoras automáticas**: Recogen el polvo del suelo sin que tengas que empujarlas.
+
+  -  **Casas inteligentes**: Regulan la luz, el calor y las puertas de forma automática.
+
+  -  **Cámaras de seguridad**: Vigilan el hogar y avisan si hay problemas.
+
+## Exploración y Espacio
+
+ -  **Vehículos en Marte**: Los rovers caminan por otros planetas para tomar fotos y estudiar rocas.
+
+  -  **Zonas profundas del mar**: Entran al agua fría o oscura donde el humano no puede respirar.
+
+  -  **Rescate en minas**: Buscan personas atrapadas en lugares con derrumbes o gases.
+  
