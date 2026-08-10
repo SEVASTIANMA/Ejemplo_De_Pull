@@ -29,4 +29,10 @@ Para que el sistema sepa cómo mover el stock, se aplican métodos específicos 
 * LIFO / UEPS (Last In, First Out / Último en Entrar, Primero en Salir): Lo último que entró es lo primero en salir. Se aplica a productos no perecederos ni sujetos a moda (como materiales de construcción en bultos o arena).
 
 * Just in Time (JIT): Se produce o compra solo lo necesario en el momento justo. Minimiza los costos de almacenamiento al extremo, pero exige una cadena de suministro extremadamente confiable.
-* 
+*  **Análisis ABC:** Clasifica los productos según su valor e impacto en las ventas:
+
+* Clase A: 20% de los productos que generan el 80% de los ingresos (alto control).
+
+* Clase B: 30% del inventario con impacto moderado.
+
+* Clase C: 50% de los productos que representan solo el 5% de los ingresos (bajo control).
