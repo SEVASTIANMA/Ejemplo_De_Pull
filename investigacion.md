@@ -18,5 +18,18 @@ En el contexto de las evaluaciones, el plagio y la trampa se definen como cualqu
 * **Uso no autorizado de IA:** Empleo subrepticio de modelos de lenguaje generativo durante exámenes en línea no vigilados.
 
 ---
+
+## 4. Factores Desencadenantes
+* **Presión institucional y familiar:** La excesiva valoración de la nota numérica sobre el proceso de aprendizaje real.
+* **Carga académica desproporcionada:** Acumulación de pruebas en cortos periodos que limitan el tiempo de estudio.
+* **Falta de supervisión efectiva:** Ambientes laxos o ausencia de lineamientos claros de integridad.
+* **Acceso tecnológico masivo:** Dispositivos móviles y conectividad ubicua que facilitan la consulta rápida de datos.
+
 ---
+
+## 5. Estrategias de Prevención y Mitigación
+* **Rediseño evaluativo:** Sustituir preguntas de memoria o opción múltiple por reactivos de análisis crítico, aplicación práctica y resolución de problemas únicos.
+* **Evaluación formativa continua:** Dividir el peso de la nota en actividades periódicas y más cortas en lugar de un único examen final de alto riesgo.
+* **Uso ético de herramientas de supervisión:** Protocolos transparentes de vigilancia o modalidades de libro abierto (*open-book*) que incentivan la síntesis por encima de la memorización mecánica.
+
 
