@@ -126,3 +126,52 @@ Aunque la IA tiene muchas ventajas, también presenta algunos riesgos.
 Por esta razón, es importante utilizar la IA de manera responsable.
 
 ---
+
+## 8. Importancia de la revisión humana
+
+Aunque una herramienta de IA pueda generar código, el desarrollador debe revisar el resultado antes de utilizarlo.
+
+Es importante comprobar:
+
+1. Que el código funcione correctamente.
+2. Que cumpla con los requisitos.
+3. Que no tenga errores.
+4. Que sea seguro.
+5. Que sea fácil de comprender.
+
+La IA debe utilizarse como una herramienta de apoyo y no como un reemplazo del conocimiento del desarrollador.
+
+---
+
+## 9. IA en el aprendizaje de programación
+
+La Inteligencia Artificial también puede ser utilizada como una herramienta para aprender programación.
+
+Un estudiante puede utilizarla para:
+
+- Solicitar explicaciones sobre un tema.
+- Crear ejemplos de código.
+- Comprender errores.
+- Practicar ejercicios.
+- Aprender nuevos conceptos.
+
+Sin embargo, es importante que el estudiante comprenda lo que está haciendo y no solamente copie el código generado.
+
+---
+
+## 10. Futuro de la Inteligencia Artificial
+
+La Inteligencia Artificial continuará evolucionando y probablemente tendrá una mayor presencia en el desarrollo de software.
+
+En el futuro podría ayudar en actividades como:
+
+- Creación de aplicaciones.
+- Pruebas automáticas.
+- Detección de errores.
+- Análisis de código.
+- Creación de documentación.
+- Automatización de tareas.
+
+Los futuros desarrolladores deberán aprender a utilizar estas tecnologías y mantener sus conocimientos sobre programación y desarrollo de software.
+
+---
