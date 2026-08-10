@@ -60,3 +60,23 @@ Las raíces de la Segunda Guerra Mundial se encuentran profundamente arraigadas 
 * Las campañas en el norte de África (*Operación Torch*) permitieron a los Aliados asegurar el control del Mediterráneo y abrir la puerta para la invasión de la "bota italiana" en **1943**, provocando la caída temporal de Mussolini.
 
 ---
+
+## 5. El Camino hacia la Victoria Aliada (1944 - 1945)
+
+### 5.1. El Desembarco de Normandía / Día D (6 de junio de 1944)
+* Bajo el nombre en código de *Operación Overlord*, las fuerzas aliadas (lideradas por EE. UU., Reino Unido y Canadá) ejecutaron la mayor invasión anfibia de la historia en las costas de Normandía, Francia.
+* Esto abrió con éxito el tan ansiado Frente Occidental, acelerando la pinza militar sobre el territorio alemán junto al avance soviético desde el este.
+
+### 5.2. La Liberación de Europa y el Holocausto
+* Mientras los Aliados avanzaban, se descubrió la magnitud industrial del **Holocausto** (la *Shoah*), el genocidio sistemático perpetrado por el régimen nazi que cobró la vida de aproximadamente 6 millones de judíos, además de gitanos, prisioneros soviéticos, homosexuales y disidentes políticos en campos de concentración y exterminio como Auschwitz-Birkenau.
+* **La Batalla de Berlín (Abril - Mayo de 1945):** Tropas soviéticas tomaron la capital alemana. Adolf Hitler se suicidó el 30 de abril en su búnker.
+* **El Día de la Victoria en Europa (VE Day):** La rendición incondicional alemana se firmó formalmente el **8 de mayo de 1945**.
+
+### 5.3. El Fin de la Guerra en el Pacífico (Agosto de 1945)
+* A pesar de la derrota alemana, Japón continuó combatiendo con tácticas kamikazes y una feroz resistencia terrestre en islas como Iwo Jima y Okinawa.
+* Para evitar una invasión anfibia al archipiélago japonés que se estimaba costaría cientos de miles de vidas aliadas, el presidente estadounidense Harry S. Truman autorizó el uso de armas nucleares.
+* Se lanzaron bombas atómicas sobre **Hiroshima** (6 de agosto) y **Nagasaki** (9 de agosto) de 1945.
+* Japón anunció su rendición el 15 de agosto y la firmó oficialmente el **2 de septiembre de 1945** a bordo del acorazado USS *Missouri*, poniendo fin definitivo a la Segunda Guerra Mundial.
+
+---
+
