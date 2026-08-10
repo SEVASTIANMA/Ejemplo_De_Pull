@@ -46,3 +46,17 @@ Las raíces de la Segunda Guerra Mundial se encuentran profundamente arraigadas 
 * **El ataque a Pearl Harbor (Diciembre de 1941):** La aviación japonesa atacó la base naval estadounidense en Hawái. Esto provocó la entrada formal de Estados Unidos en el conflicto mundial.
 
 ---
+
+## 4. Batallas Decisivas e Ingreso al Punto de Inflexión (1942 - 1943)
+
+### 4.1. Frente Oriental: La Batalla de Stalingrado (1942 - 1943)
+* Considerada el punto de inflexión más sangriento de la guerra europea. 
+* La victoria del Ejército Rojo soviético contuvo el avance nazi hacia los campos petrolíferos del Cáucaso y marcó el inicio de la retirada alemana en el este.
+
+### 4.2. Guerra en el Pacífico: La Batalla de Midway (1942)
+* La Armada de los Estados Unidos infligió una derrota decisiva a la Armada Imperial Japonesa, destruyendo cuatro portaaviones enemigos y neutralizando la capacidad ofensiva naval japonesa en el Pacífico central.
+
+### 4.3. El Norte de África y el Frente Italiano
+* Las campañas en el norte de África (*Operación Torch*) permitieron a los Aliados asegurar el control del Mediterráneo y abrir la puerta para la invasión de la "bota italiana" en **1943**, provocando la caída temporal de Mussolini.
+
+---
