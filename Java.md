@@ -46,3 +46,8 @@
 -- Una variable es un espacio utilizado para almacenar información durante la ejecución de un programa.
 
 -- Cada variable tiene un tipo de dato que determina qué clase de información puede almacenar.
+
+
+## *Conclusión*
+
+-- Java es un lenguaje de programación muy utilizado en el desarrollo de software gracias a su versatilidad, seguridad y capacidad para crear diferentes tipos de aplicaciones. Además, permite aprender conceptos importantes como variables, condicionales, ciclos, métodos, clases y objetos. Por esta razón, Java es una herramienta importante para fortalecer los conocimientos de programación y desarrollar soluciones tecnológicas.
