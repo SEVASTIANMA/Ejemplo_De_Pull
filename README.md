@@ -20,3 +20,8 @@ Existieron miles de especies diferentes. Algunos ejemplos conocidos son:
 
 Los dinosaurios podían ser **herbívoros, carnívoros u omnívoros**. Los herbívoros se alimentaban principalmente de plantas, mientras que los carnívoros cazaban otros animales. Algunos probablemente tenían dietas variadas.
 
+## ¿Cómo desaparecieron?
+
+Hace aproximadamente **66 millones de años**, ocurrió una extinción masiva que provocó la desaparición de los dinosaurios no avianos. La principal explicación científica es el impacto de un gran asteroide en la zona de la actual península de Yucatán, que produjo cambios ambientales importantes.
+
+Sin embargo, **no todos los dinosaurios desaparecieron**: las aves son consideradas dinosaurios avianos y representan el único grupo de dinosaurios que sobrevivió hasta nuestros días.
