@@ -71,3 +71,58 @@ La IA puede ayudar a crear documentación para explicar el funcionamiento de un 
 Una buena documentación permite que otros desarrolladores puedan comprender y mantener el proyecto.
 
 ---
+## 5. Ejemplo de utilización
+
+Un desarrollador puede solicitar a una herramienta de IA una función que permita sumar dos números.
+
+def sumar(numero1, numero2):
+    return numero1 + numero2
+
+resultado = sumar(5, 3)
+
+print(resultado)
+
+**El resultado sería**:
+
+8
+
+En este caso, la IA podría ayudar a crear el código y explicar su funcionamiento.
+
+«Importante: El código generado por IA debe ser revisado y probado antes de utilizarlo en un proyecto.»
+
+---
+## 6. Ventajas de utilizar Inteligencia Artificial
+
+**La utilización de IA puede ofrecer diferentes ventajas en el desarrollo de software.**
+
+- Ahorro de tiempo: permite realizar algunas tareas rápidamente.
+- Aprendizaje: ayuda a comprender conceptos de programación.
+- Productividad: facilita tareas repetitivas.
+- Detección de errores: ayuda a encontrar posibles problemas.
+- Generación de ideas: puede proponer diferentes soluciones.
+- Documentación: facilita la creación de explicaciones sobre un proyecto.
+
+**Tabla de ventajas**
+
+Ventaja| Descripción
+Ahorro de tiempo| Permite realizar algunas tareas más rápidamente.
+Aprendizaje| Ayuda a comprender temas de programación.
+Productividad| Facilita algunas tareas repetitivas.
+Detección de errores| Ayuda a encontrar posibles problemas.
+
+---
+
+## 7. Desventajas de utilizar Inteligencia Artificial
+
+Aunque la IA tiene muchas ventajas, también presenta algunos riesgos.
+
+- Puede generar código incorrecto.
+- Puede proporcionar información equivocada.
+- Puede generar dependencia de estas herramientas.
+- El código debe ser revisado por un desarrollador.
+- Puede existir riesgo al compartir información privada.
+- No siempre comprende correctamente los requisitos.
+
+Por esta razón, es importante utilizar la IA de manera responsable.
+
+---
