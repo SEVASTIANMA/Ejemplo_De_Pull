@@ -1,39 +1,273 @@
-# Investigación: El Plagio y la Deshonestidad en Exámenes Académicos
+# Investigación sobre Markdown
 
----
+## Objetivo
 
-## 1. Introducción
-El fraude y el plagio en las evaluaciones académicas representan una de las problemáticas más de fondo en el sistema educativo actual. Con la evolución de las tecnologías digitales y los entornos virtuales de aprendizaje, las formas de burlar los mecanismos de control se han transformado, amenazando la validez de la certificación de saberes y la equidad formativa.
+Investigar qué es Markdown, para qué sirve y cuáles son sus principales características. También aprender su sintaxis básica para crear documentos correctamente estructurados.
 
----
+## ¿Qué es Markdown?
 
-## 2. Definición del Problema
-En el contexto de las evaluaciones, el plagio y la trampa se definen como cualquier acción mediante la cual un estudiante presenta como propio un resultado, respuesta o conocimiento que ha obtenido de forma fraudulenta. Esto rompe el pacto ético de la evaluación, cuyo propósito real es medir el aprendizaje genuino del individuo.
+Markdown es un lenguaje de marcado ligero que permite dar formato a documentos utilizando una sintaxis sencilla basada en caracteres de texto.
 
-## 3. Tipologías del Fraude en Exámenes
-* **Copia presencial tradicional:** Observación no autorizada de las respuestas de un compañero durante una prueba física.
-* **Uso de soportes ocultos (*"acordeones"*):** Empleo de papeles, anotaciones en la piel o dispositivos electrónicos programados.
-* **Suplantación de identidad:** Un tercero toma el examen en lugar del estudiante inscrito, frecuente tanto en modalidades presenciales masivas como virtuales.
-* **Filtración y robo de reactivos:** Obtención anticipada del banco de preguntas o la hoja de respuestas.
-* **Uso no autorizado de IA:** Empleo subrepticio de modelos de lenguaje generativo durante exámenes en línea no vigilados.
+Fue creado para que los documentos fueran fáciles de escribir y, al mismo tiempo, fáciles de leer incluso cuando se muestran como texto sin formato.
 
----
+Los archivos Markdown normalmente utilizan la extensión `.md`.
 
-## 4. Factores Desencadenantes
-* **Presión institucional y familiar:** La excesiva valoración de la nota numérica sobre el proceso de aprendizaje real.
-* **Carga académica desproporcionada:** Acumulación de pruebas en cortos periodos que limitan el tiempo de estudio.
-* **Falta de supervisión efectiva:** Ambientes laxos o ausencia de lineamientos claros de integridad.
-* **Acceso tecnológico masivo:** Dispositivos móviles y conectividad ubicua que facilitan la consulta rápida de datos.
+Markdown es muy utilizado en proyectos de programación, documentación, archivos README y plataformas como GitHub.
 
----
+## ¿Para qué sirve Markdown?
 
-## 5. Estrategias de Prevención y Mitigación
-* **Rediseño evaluativo:** Sustituir preguntas de memoria o opción múltiple por reactivos de análisis crítico, aplicación práctica y resolución de problemas únicos.
-* **Evaluación formativa continua:** Dividir el peso de la nota en actividades periódicas y más cortas en lugar de un único examen final de alto riesgo.
-* **Uso ético de herramientas de supervisión:** Protocolos transparentes de vigilancia o modalidades de libro abierto (*open-book*) que incentivan la síntesis por encima de la memorización mecánica.
+Markdown sirve para crear documentos organizados y aplicar formato al texto de una manera sencilla.
 
----
+Algunos de sus principales usos son:
 
-## 6. Conclusiones
-La erradicación del plagio en los exámenes no recae únicamente en la aplicación de sanciones punitivas o sistemas de control invasivos, sino en el fomento de una cultura de **honestidad intelectual**. Reorientar el valor de la evaluación hacia la retroalimentación constructiva disminuye de manera directa los incentivos psicológicos y contextuales del fraude.
+* Crear documentación para proyectos.
+* Crear archivos `README.md`.
+* Escribir manuales e instrucciones.
+* Organizar apuntes y notas.
+* Documentar proyectos de programación.
+* Crear páginas y documentos.
+* Escribir información técnica.
+* Crear contenido para plataformas que soportan Markdown.
 
+En GitHub, Markdown se utiliza principalmente para documentar proyectos, escribir archivos README, crear instrucciones y dar formato a diferentes contenidos dentro de los repositorios.
+
+## Principales características de Markdown
+
+### Fácil de aprender
+
+Markdown utiliza una sintaxis sencilla basada en símbolos como `#`, `*`, `-`, `>` y `[ ]`, por lo que es relativamente fácil de aprender.
+
+### Fácil de leer
+
+Una de sus principales características es que el documento sigue siendo comprensible incluso cuando se observa directamente como texto sin formato.
+
+### Utiliza texto plano
+
+Los documentos Markdown se escriben como texto plano y pueden editarse utilizando diferentes editores de texto.
+
+### Permite organizar documentos
+
+Markdown permite utilizar títulos, subtítulos, listas, enlaces, imágenes, citas y bloques de código para organizar la información.
+
+### Es ampliamente utilizado
+
+Markdown es utilizado en numerosos proyectos de programación y plataformas de documentación. GitHub es uno de los ejemplos más conocidos.
+
+### Es compatible con GitHub
+
+GitHub ofrece soporte para Markdown y permite utilizarlo en archivos `.md`, comentarios, documentación y diferentes partes de los repositorios.
+
+### Tiene diferentes variantes
+
+Existen diferentes implementaciones de Markdown. Una de ellas es CommonMark, que establece una especificación común. GitHub utiliza GitHub Flavored Markdown (GFM), que incluye características adicionales.
+
+# Sintaxis básica de Markdown
+
+## Títulos
+
+Los títulos se crean utilizando el símbolo `#` al comienzo de una línea.
+
+Se pueden utilizar entre uno y seis símbolos `#`.
+
+### Ejemplo
+
+```markdown
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
+```
+
+Mientras más símbolos `#` se utilizan, menor es el nivel del título.
+
+## Negrita
+
+Para escribir texto en **negrita**, se utilizan dos asteriscos `**` al principio y al final del texto.
+
+### Ejemplo
+
+```markdown
+**Este texto está en negrita**
+```
+
+Resultado:
+
+**Este texto está en negrita**
+
+También se puede utilizar doble guion bajo:
+
+```markdown
+__Este texto está en negrita__
+```
+
+## Cursiva
+
+Para escribir texto en *cursiva*, se puede utilizar un asterisco `*` o un guion bajo `_` a cada lado del texto.
+
+### Ejemplo
+
+```markdown
+*Este texto está en cursiva*
+```
+
+Resultado:
+
+*Este texto está en cursiva*
+
+También:
+
+```markdown
+_Este texto está en cursiva_
+```
+
+## Negrita y cursiva
+
+Es posible combinar la negrita y la cursiva utilizando tres asteriscos.
+
+### Ejemplo
+
+```markdown
+***Este texto está en negrita y cursiva***
+```
+
+Resultado:
+
+***Este texto está en negrita y cursiva***
+
+# Listas
+
+Markdown permite crear listas ordenadas y listas no ordenadas.
+
+## Listas no ordenadas
+
+Para crear una lista no ordenada se pueden utilizar `-`, `*` o `+`.
+
+### Ejemplo
+
+```markdown
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+```
+
+Resultado:
+
+* Primer elemento
+* Segundo elemento
+* Tercer elemento
+
+## Listas ordenadas
+
+Para crear una lista ordenada se utilizan números seguidos de un punto.
+
+### Ejemplo
+
+```markdown
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+```
+
+Resultado:
+
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+# Enlaces
+
+Los enlaces se crean utilizando corchetes `[]` para escribir el texto que verá el usuario y paréntesis `()` para colocar la dirección del enlace.
+
+### Sintaxis
+
+```markdown
+[Texto del enlace](https://www.ejemplo.com)
+```
+
+### Ejemplo
+
+```markdown
+[Visitar GitHub](https://github.com)
+```
+
+El resultado será un enlace que permite acceder a la dirección indicada.
+
+# Citas
+
+Las citas se crean utilizando el símbolo `>` al comienzo de una línea.
+
+### Ejemplo
+
+```markdown
+> Este es un texto citado.
+```
+
+Resultado:
+
+> Este es un texto citado.
+
+# Imágenes
+
+Las imágenes utilizan una sintaxis parecida a la de los enlaces, pero comienzan con un signo de exclamación `!`.
+
+### Sintaxis
+
+```markdown
+![Descripción de la imagen](imagen.jpg)
+```
+
+La descripción sirve como texto alternativo de la imagen.
+
+# Ventajas de Markdown
+
+Markdown tiene varias ventajas:
+
+* Es sencillo de aprender.
+* Es fácil de leer.
+* Utiliza texto plano.
+* Permite crear documentos rápidamente.
+* Los archivos son ligeros.
+* Permite organizar la información.
+* Es compatible con muchas herramientas.
+* Es ampliamente utilizado en programación.
+* Facilita la documentación de proyectos.
+* Tiene soporte en GitHub.
+
+# Markdown en GitHub
+
+GitHub utiliza Markdown para facilitar la escritura y presentación de documentación dentro de los repositorios.
+
+Uno de los archivos más conocidos es `README.md`, que normalmente contiene información sobre un proyecto, como:
+
+* Descripción del proyecto.
+* Instalación.
+* Funcionamiento.
+* Requisitos.
+* Ejemplos de uso.
+* Información adicional.
+
+GitHub también permite utilizar Markdown en issues, pull requests, comentarios y otros espacios de la plataforma.
+
+# CommonMark y GitHub Flavored Markdown
+
+Markdown tiene diferentes implementaciones y variantes.
+
+**CommonMark** es una especificación que busca establecer un comportamiento común para Markdown y mejorar la compatibilidad entre diferentes aplicaciones.
+
+**GitHub Flavored Markdown (GFM)** es la variante utilizada por GitHub. Está basada en CommonMark y añade algunas características propias.
+
+Esto permite que Markdown pueda utilizarse de forma consistente mientras diferentes plataformas pueden incorporar funciones adicionales.
+
+# Conclusión
+
+Markdown es un lenguaje de marcado ligero que permite crear documentos estructurados utilizando una sintaxis sencilla.
+
+Sus principales características son la facilidad de aprendizaje, la legibilidad, el uso de texto plano y su amplia compatibilidad con diferentes herramientas y plataformas.
+
+Su sintaxis permite crear títulos, texto en negrita y cursiva, listas, enlaces, imágenes, citas y bloques de código.
+
+Gracias a estas características, Markdown se utiliza ampliamente para crear documentación, archivos README y documentos relacionados con proyectos de programación.
+
+Aprender Markdown es especialmente útil para trabajar con GitHub, ya que permite crear documentación clara, organizada y fácil de mantener.
