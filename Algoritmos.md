@@ -32,3 +32,5 @@ Definidos. El mismo algoritmo debe dar el mismo resultado al recibir la misma en
 
 -------------
 
+## Conclusion 
+Como hemos visto, un algoritmo informático no es más que un conjunto de instrucciones para conseguir un fin. Los algoritmos están muy presentes en el ámbito de la informática, pero también en nuestra vida cotidiana. Existen numerosos tipos y ejemplos de algoritmos y, dependiendo de la situación en que nos encontremos, unos u otros nos ayudarán a llegar a la solución que necesitemos.
