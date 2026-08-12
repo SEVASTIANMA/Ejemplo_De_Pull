@@ -30,3 +30,23 @@ La adopción masiva de la **Inteligencia Artificial (IA)** y la **automatizació
 * [x] Analizar vectores de ataque y amenazas cibernéticas comunes.
 * [x] Evaluar estrategias defensivas respaldadas por algoritmos.
 * [x] Establecer un marco de buenas prácticas de gobernanza de datos.
+
+---
+
+## Implementación de Medidas Preventivas
+
+Para mitigar riesgos, las empresas deben aplicar un modelo de **Seguridad desde el Diseño (*Security by Design*)**:
+
+1. **Arquitectura Zero Trust:** Ningún usuario o dispositivo tiene confianza implícita dentro o fuera de la red.
+2. **Cifrado de Extremo a Extremo:** Proteger la información sensible tanto en tránsito como en reposo.
+3. **Auditoría Continua de Código:** Monitorear pipelines de desarrollo mediante reglas de análisis estático:
+
+```bash
+# Ejemplo de escaneo de vulnerabilidades automatizado en consola
+$snyk test --all-projects$ git-secrets --scan
+```
+
+---
+
+# Conclusión
+El éxito de la Inteligencia Artificial en el sector corporativo depende directamente de la solidez con la que se protejan sus sistemas. Como desarrolladores, nuestro deber es crear software eficiente, ético y fundamentalmente seguro.
