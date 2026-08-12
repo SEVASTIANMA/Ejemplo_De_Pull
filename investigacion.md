@@ -107,4 +107,137 @@ __Este texto está en negrita__
 Para escribir texto en *cursiva*, se puede utilizar un asterisco `*` o un guion bajo `_` a cada lado del texto.
 
 ### Ejemplo
+```markdown
+*Este texto está en cursiva*
+```
+
+Resultado:
+
+*Este texto está en cursiva*
+
+También:
+
+```markdown
+_Este texto está en cursiva_
+```
+
+## Negrita y cursiva
+
+Es posible combinar la negrita y la cursiva utilizando tres asteriscos.
+
+### Ejemplo
+
+```markdown
+***Este texto está en negrita y cursiva***
+```
+
+Resultado:
+
+***Este texto está en negrita y cursiva***
+
+# Listas
+
+Markdown permite crear listas ordenadas y listas no ordenadas.
+
+## Listas no ordenadas
+
+Para crear una lista no ordenada se pueden utilizar `-`, `*` o `+`.
+
+### Ejemplo
+
+```markdown
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+```
+
+Resultado:
+
+* Primer elemento
+* Segundo elemento
+* Tercer elemento
+
+## Listas ordenadas
+
+Para crear una lista ordenada se utilizan números seguidos de un punto.
+
+### Ejemplo
+
+```markdown
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+```
+
+Resultado:
+
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+# Enlaces
+
+Los enlaces se crean utilizando corchetes `[]` para escribir el texto que verá el usuario y paréntesis `()` para colocar la dirección del enlace.
+
+### Sintaxis
+
+```markdown
+[Texto del enlace](https://www.ejemplo.com)
+```
+
+### Ejemplo
+
+```markdown
+[Visitar GitHub](https://github.com)
+```
+
+El resultado será un enlace que permite acceder a la dirección indicada.
+
+# Citas
+
+Las citas se crean utilizando el símbolo `>` al comienzo de una línea.
+
+### Ejemplo
+
+```markdown
+> Este es un texto citado.
+```
+
+Resultado:
+
+> Este es un texto citado.
+
+# Imágenes
+
+Las imágenes utilizan una sintaxis parecida a la de los enlaces, pero comienzan con un signo de exclamación `!`.
+
+### Sintaxis
+
+```markdown
+![Descripción de la imagen](imagen.jpg)
+```
+
+La descripción sirve como texto alternativo de la imagen.
+
+# Ventajas de Markdown
+
+Markdown tiene varias ventajas:
+
+* Es sencillo de aprender.
+* Es fácil de leer.
+* Utiliza texto plano.
+* Permite crear documentos rápidamente.
+* Los archivos son ligeros.
+* Permite organizar la información.
+* Es compatible con muchas herramientas.
+* Es ampliamente utilizado en programación.
+* Facilita la documentación de proyectos.
+* Tiene soporte en GitHub.
+
+# Markdown en GitHub
+
+GitHub utiliza Markdown para facilitar la escritura y presentación de documentación dentro de los repositorios.
+
+
+
 
