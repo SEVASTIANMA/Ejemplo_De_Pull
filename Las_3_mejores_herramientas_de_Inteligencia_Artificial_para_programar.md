@@ -47,7 +47,9 @@ Diversos análisis de 2026 la sitúan como una de las herramientas más producti
 **Puntos fuertes**
 
  ✅ Ecosistema GitHub
+
  ✅ Gran compatibilidad de IDEs
+ 
  ✅ Fácil adopción en equipos
 
 Sigue siendo el asistente de programación más extendido y uno de los estándares del mercado en 2026.
