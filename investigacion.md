@@ -240,4 +240,28 @@ GitHub utiliza Markdown para facilitar la escritura y presentación de documenta
 
 
 
+Uno de los archivos más conocidos es `README.md`, que normalmente contiene información sobre un proyecto, como:
+
+* Descripción del proyecto.
+* Instalación.
+* Funcionamiento.
+* Requisitos.
+* Ejemplos de uso.
+* Información adicional.
+
+GitHub también permite utilizar Markdown en issues, pull requests, comentarios y otros espacios de la plataforma.
+
+# CommonMark y GitHub Flavored Markdown
+
+Markdown tiene diferentes implementaciones y variantes.
+
+**CommonMark** es una especificación que busca establecer un comportamiento común para Markdown y mejorar la compatibilidad entre diferentes aplicaciones.
+
+**GitHub Flavored Markdown (GFM)** es la variante utilizada por GitHub. Está basada en CommonMark y añade algunas características propias.
+
+Esto permite que Markdown pueda utilizarse de forma consistente mientras diferentes plataformas pueden incorporar funciones adicionales.
+
+
+
+
 
