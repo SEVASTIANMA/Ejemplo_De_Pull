@@ -49,3 +49,20 @@ Nos encontramos en un entorno que cambia digitalmente de manera constante. Lo qu
 
 Las organizaciones que actualizan constantemente sus medidas de ciberseguridad cuentan con una capa extra de seguridad ante herramientas de ataque nuevas y en desarrollo.
 
+## ¿Como podria ayudarnos en un futuro?
+
+-En un futuro cada vez más hiperconectado, la ciberseguridad dejará de ser una herramienta puramente defensiva para convertirse en el pilar fundamental de la confianza, la estabilidad económica y la seguridad física.  
+Así es como impactará en nuestro día a día y en el desarrollo global:  
+## 1. Protección de la vida cotidiana y la salud
+A medida que la tecnología se integra en nuestros cuerpos y hogares, la ciberseguridad protegerá directamente vidas humanas:
+ Salud conectada: Dispositivos como marcapasos inteligentes, bombas de insulina y robots quirúrgicos requerirán blindaje cibernético para evitar manipulaciones o interrupciones.
+ Hogares y ciudades inteligentes: Garantizará que redes eléctricas, suministro de agua, semáforos y transporte autónomo funcionen sin riesgo de sabotajes masivos.
+## 2. Defensa contra la desinformación y medios sintéticos
+Con el avance de la inteligencia artificial, distinguir lo real de lo falso es un reto creciente:
+## 4. Desarrollo de la Inteligencia Artificial y Computación Cuántica
+Las tecnologías del futuro no pueden prosperar sin un entorno seguro:
+ Escudo contra la IA maliciosa: Se usarán sistemas de IA defensiva capaces de detectar y neutralizar ataques automatizados en milisegundos.
+ Criptografía poscuántica: Protegerá las comunicaciones globales antes de que los ordenadores cuánticos puedan romper los métodos de cifrado actuales.
+## 5. Continuidad de la economía y la sostenibilidad
+ Resiliencia empresarial: Evitará parálisis operativas en empresas, protegiendo empleos y cadenas de suministro mundiales.
+ Proyectos sostenibles: Asegurará las redes de energía renovable e infraestructuras ecológicas frente a ataques que puedan causar desastres ambientales.
