@@ -12,3 +12,14 @@ El gobierno estadounidense invirtió 14.400 millones de dólares en cibersegurid
 El coste medio de una filtración de datos en Estados Unidos es de 7,9 millones de dólares, en comparación con los 3,9 millones a nivel mundial.
 La seguridad de la red sigue siendo esencial para proteger los datos de los clientes y prevenir el sabotaje.
 
+## Como nos ayuda a los desarrolladores?
+
+La ciberseguridad tiene múltiples aplicaciones que van desde la protección de datos hasta el fortalecimiento de la resiliencia operativa. Sus principales funciones son:
+
+Proteger la confidencialidad de los datos: Evita el acceso no autorizado a información sensible, como datos financieros o personales.
+
+Garantizar la disponibilidad de sistemas: Reduce las interrupciones causadas por ataques como el ransomware o fallos técnicos.
+
+Cumplir con normativas y estándares: Implementar estándares como la ISO 27001 asegura que las organizaciones cumplan con regulaciones globales de seguridad. Según Pirani, esta norma proporciona un marco sistemático para gestionar riesgos de seguridad y proteger la información de manera integral.
+
+Promover la confianza en el entorno digital: Fortalece las relaciones con clientes y socios al garantizar un ecosistema seguro para transacciones y servicios.
