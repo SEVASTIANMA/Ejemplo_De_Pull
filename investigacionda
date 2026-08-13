@@ -20,3 +20,20 @@ El proceso de arranque de una computadora puede dividirse en los siguientes paso
 > Carga del sistema operativo: el software básico que gestiona todos los recursos del sistema.
 
 > Inicialización de dispositivos de entrada y salida: preparación de dispositivos como el teclado, el mouse y la pantalla.
+
+>Listo para el uso: la computadora queda lista para ejecutar programas y recibir comandos.
+
+# El rol del sistema operativo: el corazón del funcionamiento.
+
+el sistema operativo es el componente más importante a nivel de software. Este programa es el responsable de gestionar todos los recursos de la computadora y permitir que puedas interactuar con ella de manera eficiente. Sin el sistema operativo, el hardware no podría realizar ninguna tarea útil, ya que no tendría instrucciones sobre cómo ejecutar.
+
+Existen varios tipos de sistemas operativos, pero los más comunes son Windows, macOS y Linux. Cada uno tiene su propio conjunto de características, pero todos cumplen funciones similares. Por ejemplo, gestionar la memoria, controlar el acceso a los archivos, y proporcionar una interfaz gráfica (o CLI, en el caso de Linux) para que el usuario pueda interactuar con el equipo.
+
+# *Funciones clave del sistema operativo.
+
+El sistema operativo realiza las siguientes tareas principales:
+
+Gestión de procesos: controla la ejecución de los programas y su interacción con el procesador.
+Gestión de la memoria: asigna y administra la memoria RAM entre los distintos programas y procesos.
+Gestión de archivos: organiza los archivos en el sistema de almacenamiento y facilita su acceso.
+Interfaz de usuario: proporciona la interfaz gráfica que permite al usuario interactuar con el sistema, como ventanas, iconos y menús.
