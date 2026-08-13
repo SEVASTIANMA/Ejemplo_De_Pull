@@ -37,3 +37,16 @@ Gestión de procesos: controla la ejecución de los programas y su interacción 
 Gestión de la memoria: asigna y administra la memoria RAM entre los distintos programas y procesos.
 Gestión de archivos: organiza los archivos en el sistema de almacenamiento y facilita su acceso.
 Interfaz de usuario: proporciona la interfaz gráfica que permite al usuario interactuar con el sistema, como ventanas, iconos y menús.
+
+# Procesamiento de datos**: cómo la CPU ejecuta instrucciones
+
+Si te preguntas para qué sirve el procesador de una computadora, es esencial saber que este componente actúa como el ‘cerebro’ del equipo. Se encarga de ejecutar las instrucciones y realizar los cálculos necesarios para que los programas y aplicaciones funcionen correctamente. Cuanto más potente sea el procesador, más rápida y eficiente será la computadora en realizar múltiples tareas al mismo tiempo. 
+
+La CPU utiliza diferentes componentes internos, como la unidad aritmética lógica (ALU), que realiza cálculos matemáticos y comparaciones lógicas, y la unidad de control, que gestiona la ejecución de las instrucciones.
+
+# Aquí te mostramos cómo se lleva a cabo el procesamiento de datos en la CPU:
+
+Recibe instrucciones: la CPU recibe las instrucciones del software a través de los cables para computadora que conectan los diferentes componentes del hardware.
+Decodifica: después, la CPU decodifica estas instrucciones para entender qué acción debe realizar.
+Ejecuta: la CPU realiza la acción, que puede ser desde realizar un cálculo matemático hasta mover un archivo en el sistema.
+Almacena los resultados: una vez que se ejecuta la instrucción, la CPU almacena los resultados en la RAM o en el disco duro, dependiendo de la naturaleza de la tarea.
