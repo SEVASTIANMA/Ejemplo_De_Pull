@@ -27,7 +27,7 @@ Un procesador es un chip de silicio que contiene millones (o miles de millones) 
 
 Los principales fabricantes a nivel global son Intel y AMD, aunque también destacan empresas como Apple (con sus chips M1, M2, M3 basados en arquitectura ARM) y otros diseñadores de SoC para móviles y servidores. Desde el primer microprocesador comercial, el Intel 4004 (1971), la evolución ha sido constante: mayor velocidad, más núcleos, mejor eficiencia y nuevas instrucciones especializadas (para IA, gráficos, cifrado, etc.).
 
-Importancia y desafíos actuales
+## Importancia y desafíos actuales
 
 Los procesadores son fundamentales en prácticamente todos los ámbitos modernos: educación, trabajo, salud, seguridad, entretenimiento y administración pública. Sin embargo, su complejidad creciente también trae retos: vulnerabilidades de seguridad (como Meltdown y Spectre), errores de diseño, altos costos de fabricación y desafíos ambientales por el consumo energético y la gestión de residuos electrónicos.
 
