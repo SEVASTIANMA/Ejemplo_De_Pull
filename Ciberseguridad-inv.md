@@ -23,3 +23,29 @@ Garantizar la disponibilidad de sistemas: Reduce las interrupciones causadas por
 Cumplir con normativas y estándares: Implementar estándares como la ISO 27001 asegura que las organizaciones cumplan con regulaciones globales de seguridad. Según Pirani, esta norma proporciona un marco sistemático para gestionar riesgos de seguridad y proteger la información de manera integral.
 
 Promover la confianza en el entorno digital: Fortalece las relaciones con clientes y socios al garantizar un ecosistema seguro para transacciones y servicios.
+
+# ¿Cómo Ayuda la Ciberseguridad a los Desarrolladores en el Día a Día?
+
+En todas las industrias es esencial contar con herramientas que no solo protejan los recursos físicos, sino también los recursos digitales y los distintos sistemas empresariales contra el acceso no autorizado o más conocido como ciberataque.
+
+IBM define un ciberataque como cualquier intento deliberado de ingresar sin autorización a una red, sistema o dispositivo con el propósito de robar, exponer, modificar, deshabilitar o eliminar datos, aplicaciones u otros recursos.
+
+Ahora sí, ya que sabemos en qué consiste un ciberataque, podemos entender mejor por qué es tan importante la ciberseguridad hoy en día. La razón principal es que al contar con medidas robustas de seguridad, las organizaciones pueden defender sus sistemas contra ciberamenazas de manera efectiva.
+
+Sin embargo, a continuación te presentamos los otros beneficios que esta práctica trae a las empresas.
+
+## 1. Reducir el costo de las brechas de ciberseguridad
+Las organizaciones que implementan estrategias de ciberseguridad logran minimizar el impacto negativo de distintos ciberataques, protegiendo su reputación, estabilidad financiera, la continuidad operativa y la confianza de sus clientes.
+
+Por ejemplo, la implementación de planes de recuperación ante desastres ciberneticos, permiten controlar las brechas de seguridad y minimizar las interrupciones en las actividades empresariales.
+
+## 2. Mantenerse en conformidad normativa
+Distintas empresas de sectores y regiones específicas deben cumplir con ciertos requisitos normativos para proteger de manera efectiva los datos confidenciales frente a riesgos cibernéticos. Al cumplir con estas normativas, las compañías afirman a sus clientes que pueden confiar en ellas, ya que sus datos estarán a salvo.
+
+Un buen ejemplo es que las empresas que operan en Europa deben cumplir con el Reglamento General de Protección de Datos (GDPR), el cual estipula que las organizaciones deben adoptar medidas de ciberseguridad adecuadas para garantizar la privacidad de los datos sensibles.
+
+## 3. Mitigar ciberamenazas en desarrollo
+Nos encontramos en un entorno que cambia digitalmente de manera constante. Lo que significa que las ciberamenazas evolucionan a la par de la tecnología. Esto resulta, en que los ciberdelicuentes encuentren y utilicen nuevas herramientas o estrategias para el acceso no autorizado a los sistemas empresariales.
+
+Las organizaciones que actualizan constantemente sus medidas de ciberseguridad cuentan con una capa extra de seguridad ante herramientas de ataque nuevas y en desarrollo.
+
