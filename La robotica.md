@@ -52,4 +52,38 @@ Un robot se compone principalmente de cinco elementos esenciales: el Controlador
   -  **Estructura (Chasis):** Es el esqueleto o cuerpo. Sostiene los componentes internos y da forma a la máquina.
 
   -  **Fuente de energía:** Baterías o conexiones eléctricas que suministran la potencia necesaria para opera 
-  
+  # 4. En qué se usa la robótica
+
+  La robótica se aplica en áreas como la industria para armar autos, la medicina en cirugías, el hogar con robots de limpieza, la exploración del espacio y la agricultura para cuidar cultivos. Estas máquinas ayudan a hacer trabajos difíciles, peligrosos o repetitivos con mayor rapidez y seguridad.
+
+## Industria y Fabricación
+
+  -  **Armado de piezas**: Unen partes de autos y aparatos con gran velocidad.
+
+  -  **Soldadura y pintura**: Hacen trabajos con calor o químicos peligrosos lejos de las personas.
+
+  -  **Transporte interno**: Mueven cajas y materiales pesados dentro de las fábricas.
+
+## Medicina y Salud
+
+  -  **Cirugía guiada**: Ayudan a los médicos a operar con cortes muy pequeños y gran pulso.
+
+  -  **Desinfección**: Limpian habitaciones de hospitales con rayos especiales para matar gérmenes.
+
+  -  **Apoyo y transporte**: Llevan medicinas y comida a las habitaciones de los enfermos.
+
+## Hogar y Vida Diaria
+
+  -  **Aspiradoras automáticas**: Recogen el polvo del suelo sin que tengas que empujarlas.
+
+  -  **Casas inteligentes**: Regulan la luz, el calor y las puertas de forma automática.
+
+  -  **Cámaras de seguridad**: Vigilan el hogar y avisan si hay problemas.
+
+## Exploración y Espacio
+
+ -  **Vehículos en Marte**: Los rovers caminan por otros planetas para tomar fotos y estudiar rocas.
+
+  -  **Zonas profundas del mar**: Entran al agua fría o oscura donde el humano no puede respirar.
+
+  -  **Rescate en minas**: Buscan personas atrapadas en lugares con derrumbes o gases. 
