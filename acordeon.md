@@ -134,4 +134,5 @@ Es importante distinguir entre ser el mejor acordeonista técnicamente y ser uno
 * Mantuvo una carrera profesional de varias décadas.
 * Creó una marca artística reconocible internacionalmente.
 
+
 Sin embargo, no suele considerarse universalmente el máximo virtuoso técnico del acordeón. Otros músicos lo superaban en velocidad, improvisación, complejidad armónica o innovación, como **Art Van Damme** en el jazz, **Charles Magnante** en la técnica clásica y popular, **Astor Piazzolla** en el bandoneón, o grandes intérpretes de música tradicional europea y latinoamericana. Por lo tanto, Welk puede describirse con mayor precisión como uno de los acordeonistas **más populares y exitosos de la historia**.
