@@ -18,7 +18,6 @@
 
 **Entrada → Procesamiento → Almacenamiento → Salida**
 
-
 **aparece en la pantalla.**
 
 **Las computadoras han evolucionado muchísimo: desde máquinas enormes que ocupaban habitaciones hasta dispositivos pequeños y potentes que podemos llevar en un bolsillo.**
