@@ -45,4 +45,8 @@
 nombre = "Carlos"
 edad = 20
 promedio = 4.5
-activo = True
+activo = True 
+
+## *Conclusión*
+
+-- Python es un lenguaje de programación sencillo, práctico y fácil de aprender. Su gran variedad de herramientas permite utilizarlo para desarrollar programas, automatizar tareas, trabajar con datos y crear diferentes tipos de aplicaciones. Por esto, Python es una excelente opción para comenzar a aprender programación y adquirir bases importantes para el desarrollo de software.
