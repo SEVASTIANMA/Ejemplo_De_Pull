@@ -12,3 +12,21 @@
 - Carácter (char): almacena un solo carácter. Ejemplo: 'A'.
 - Cadena (string): almacena texto. Ejemplo: "Hola".
 - Booleano (bool): almacena valores de verdadero o falso.
+
+*Ejemplo*
+
+-nombre = "Juan"
+-edad = 20
+-altura = 1.75
+-En este ejemplo:
+- "nombre" guarda un texto.
+- "edad" guarda un número entero.
+- "altura" guarda un número decimal.
+
+*Importancia de las variables*
+
+-Las variables son fundamentales porque permiten que los programas manejen información de manera organizada, realicen cálculos, tomen decisiones y respondan a las acciones del usuario.
+
+*Conclusión*
+
+-Las variables son uno de los conceptos más importantes de la programación. Comprender su funcionamiento facilita el aprendizaje de cualquier lenguaje de programación y es el primer paso para desarrollar programas más complejos.
